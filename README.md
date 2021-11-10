@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gordonwky
-- 👀 I have a broad interest in various fields from Science and Technologt as well as Humanities.
+- 👀 I have a broad interest in various fields from Science and Technology as well as Humanities.
 - 🌱 I’m currently learning Web Programming and Data Analysis.
 - 💞️ I’m looking to collaborate on software engineers and data sciencetists around the world
 - 📫 How to reach me ...
